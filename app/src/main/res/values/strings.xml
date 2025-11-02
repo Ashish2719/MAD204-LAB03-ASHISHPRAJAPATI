@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab3NotesApp</string>
+    <string name="enter_a_note">Enter a note</string>
+    <string name="add_note">Add Note</string>
+</resources>
